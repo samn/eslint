@@ -1,3 +1,8 @@
+This fork removes dependencies with unlicensed (public domain or WTFPL) dependencies.
+It should be suitable for use in organizations that require explicit permission to use/copy software.
+
+
+
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Build status][appveyor-image]][appveyor-url]
